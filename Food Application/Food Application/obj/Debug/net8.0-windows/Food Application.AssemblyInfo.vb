@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Food Application"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d45354c84a893faf21451d1d6cb36e1e6ca45f4a"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70be03071a84d0e5ee39197fee996aa0f3817494"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Food Application"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Food Application"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
