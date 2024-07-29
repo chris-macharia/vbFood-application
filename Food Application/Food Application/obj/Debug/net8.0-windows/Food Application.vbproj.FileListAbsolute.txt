@@ -1,0 +1,16 @@
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\bin\Debug\net8.0-windows\Food Application.exe
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\bin\Debug\net8.0-windows\Food Application.deps.json
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\bin\Debug\net8.0-windows\Food Application.runtimeconfig.json
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\bin\Debug\net8.0-windows\Food Application.dll
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\bin\Debug\net8.0-windows\Food Application.pdb
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\obj\Debug\net8.0-windows\Food_Application.Form1.resources
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\obj\Debug\net8.0-windows\Food Application.vbproj.GenerateResource.cache
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\obj\Debug\net8.0-windows\Food Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\obj\Debug\net8.0-windows\Food Application.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\obj\Debug\net8.0-windows\Food Application.AssemblyInfo.vb
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\obj\Debug\net8.0-windows\Food Application.vbproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\obj\Debug\net8.0-windows\Food Application.dll
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\obj\Debug\net8.0-windows\refint\Food Application.dll
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\obj\Debug\net8.0-windows\Food Application.pdb
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\obj\Debug\net8.0-windows\Food Application.genruntimeconfig.cache
+C:\Users\chris\Desktop\app programming\vbFood-application\Food Application\Food Application\obj\Debug\net8.0-windows\ref\Food Application.dll
